@@ -20694,6 +20694,9 @@
 	<programme channel="动作电影" start="20250829142900 +0800" stop="20250829161400 +0800">
 		<title lang="zh">追凶十九年</title>
 	</programme>
+	<programme channel="动作电影" start="20250829161400 +0800" stop="20250829170200 +0800">
+		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -66705,6 +66708,9 @@
 	<programme channel="纯享4K" start="20250829154600 +0800" stop="20250829161000 +0800">
 		<title lang="zh">了不起的冬天4K 第9集 瞬间的奥秘</title>
 	</programme>
+	<programme channel="纯享4K" start="20250829161000 +0800" stop="20250829164000 +0800">
+		<title lang="zh">记住乡愁4K第七季 第三十八集 孝义——千古繁华地 天下孝义人</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -71843,6 +71849,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250829145900 +0800" stop="20250829161300 +0800">
 		<title lang="zh">电影《维和女警：暴力安全区》</title>
+	</programme>
+	<programme channel="超级电影" start="20250829161300 +0800" stop="20250829172800 +0800">
+		<title lang="zh">电影《齐天大圣b7无双》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83568,6 +83577,9 @@
 	<programme channel="黑莓动画" start="20250829151800 +0800" stop="20250829160700 +0800">
 		<title lang="zh">04_岑参 边塞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250829160700 +0800" stop="20250829165600 +0800">
+		<title lang="zh">05_李白 仙山</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84615,6 +84627,9 @@
 	<programme channel="newtv超级电影" start="20250829145900 +0800" stop="20250829161300 +0800">
 		<title lang="zh">电影《维和女警：暴力安全区》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250829161300 +0800" stop="20250829172800 +0800">
+		<title lang="zh">电影《齐天大圣b7无双》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84680,6 +84695,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250829154200 +0800" stop="20250829162800 +0800">
 		<title lang="zh">15_在暴雪时分</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250829162800 +0800" stop="20250829171300 +0800">
+		<title lang="zh">09_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84840,6 +84858,9 @@
 	<programme channel="newtv精品纪录" start="20250829154000 +0800" stop="20250829161000 +0800">
 		<title lang="zh">第3集：生命的滋养</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250829161000 +0800" stop="20250829164500 +0800">
+		<title lang="zh">第4集：苍茫天地间</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84902,6 +84923,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250829151700 +0800" stop="20250829160500 +0800">
 		<title lang="zh">03_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250829160500 +0800" stop="20250829165200 +0800">
+		<title lang="zh">04_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85194,6 +85218,9 @@
 	<programme channel="newtv动作电影" start="20250829142900 +0800" stop="20250829161400 +0800">
 		<title lang="zh">追凶十九年</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250829161400 +0800" stop="20250829170200 +0800">
+		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -85413,6 +85440,9 @@
 	<programme channel="newtv军事评论" start="20250829154100 +0800" stop="20250829160300 +0800">
 		<title lang="zh">美F-35隐身战机为何事故频发（20250210）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250829160300 +0800" stop="20250829162500 +0800">
+		<title lang="zh">隐蔽战线（5）（20250710）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85628,6 +85658,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250829155500 +0800" stop="20250829163000 +0800">
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250829163000 +0800" stop="20250829172000 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
